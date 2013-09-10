@@ -1,0 +1,4 @@
+fantasy-xcom
+============
+
+Strategic playground
